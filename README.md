@@ -1,1 +1,2 @@
-# Thread-Project-OS-AUEB
+# Thread-Project-OS-AUE
+This is a project I worked on for the Operating Systems course along with my team. The main goal for this project was to learn how processes and threads work and how to properly use them. I had no previous experience on these topics yet I enjoyed the learning process, even though I had a tough time figuring some things out. We worked with C language, which again, I had no previous experience. Overall the project was a success and I am pretty pleased with the end result and the thing I learned.
